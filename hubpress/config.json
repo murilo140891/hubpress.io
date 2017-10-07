@@ -2,7 +2,8 @@
   "meta": {
     "username": "murilo140891",
     "repositoryName": "murilo140891.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "Domus Mariae",
+    "description": "Santíssima Virgem Maria, Trono da Sabedoria, rogai por nós",
+    "logo": "https://i.pinimg.com/736x/cb/f3/8f/cbf38f827c032fa21b9e932b26794510--blessed-mother-mary-blessed-virgin-mary.jpg",
+    "cover": "https://i.pinimg.com/736x/cb/f3/8f/cbf38f827c032fa21b9e932b26794510--blessed-mother-mary-blessed-virgin-mary.jpg",
+    "delay": "",
+    "postsPerPage": "10",
+    "googleAnalytics": "",
+    "disqus": "domus-mariae-hubpress.disqus.com"
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
